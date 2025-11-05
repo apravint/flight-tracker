@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Flight Tracker",
+  "description": "An advanced flight tracking and travel planning application powered by the Gemini API. Find flights, get trip inspiration, plan complex itineraries, and interact with a live AI travel agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
